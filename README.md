@@ -5,6 +5,7 @@ A Reverse Polish Notation Calculator in python.
 - Simply run into any console where python is available.
 - Of course run with python3 like `python3 rpn_calculator.py`.
 - After runing give input as a seperate value or only press enter to see the default input.
+- This calculator only supports `Addition`, `Subtraction`, `Multiplication`, `Divission`, `Exponentiation`, `Sine`, `Sqrt`.
 
 # Algorithm
 - Used stack for store the RPN to infix converted result.
