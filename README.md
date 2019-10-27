@@ -3,7 +3,7 @@ A Reverse Polish Notation Calculator in python.
 
 # Running process
 - Simply run into any console where python is available.
-- Of course run with python3.
+- Of course run with python3 like `python3 rpn_calculator.py`.
 - After runing give input as a seperate value or only press enter to see the default input.
 
 # Algorithm
